@@ -1,0 +1,36 @@
+tml,body{
+height:100%;
+}
+header{
+display:block;
+background:#FF3333;
+padding:10px 0px;
+}
+section{
+width:79%;
+cbackground:#9575cd;
+float:left;
+overflow:auto;
+padding-bottom:60px;
+padding-top:30px;
+}
+aside{
+float:right;
+border:1px solid black;
+width:19%;
+border:1px solid black;
+}
+footer{
+position:relative;
+margin-top:-50px;
+height: 40px;
+padding:5px 0px;
+clear:both;
+background: #9575CD;
+text-align:center;
+color: #512da8;
+}
+figure{
+display:table; margin:0 auto;
+}
+
